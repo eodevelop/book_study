@@ -1,4 +1,4 @@
-package org.example;
+package study;
 
 public class Main {
 
